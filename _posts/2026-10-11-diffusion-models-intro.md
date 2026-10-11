@@ -7,7 +7,7 @@ tags:
   - generative-models
 ---
 
-This is a introduction of diffusion model
+This is an introduction of diffusion model!
 
 ## Principle
 
